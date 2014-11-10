@@ -1,13 +1,13 @@
 //
-//  Penguine.h
+//  Penguin.m
 //  PeevedPenguins
 //
 //  Created by Norris on 10/11/14.
 //  Copyright (c) 2014 Apportable. All rights reserved.
 //
 
-#import "CCSprite.h"
+#import "Penguin.h"
 
-@interface Penguine : CCSprite
+@implementation Penguin
 
 @end
