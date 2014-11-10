@@ -10,14 +10,4 @@
 
 @implementation Seal
 
-- (id)init {
-    self = [super init];
-    CCLOG(@"Nothing created");
-    if (self) {
-        CCLOG(@"Seal created");
-    }
-    
-    return self;
-}
-
 @end
