@@ -12,6 +12,7 @@
 
 - (id)init {
     self = [super init];
+    CCLOG(@"Seal created");
     if (self) {
         CCLOG(@"Seal created");
     }
