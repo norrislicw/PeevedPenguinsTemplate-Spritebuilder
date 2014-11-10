@@ -12,7 +12,6 @@
 
 - (id)init {
     self = [super init];
-    CCLOG(@"Characters: %c %c", 'a', 65);
     if (self) {
         CCLOG(@"Seal created");
     }
